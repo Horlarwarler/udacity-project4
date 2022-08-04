@@ -28,5 +28,5 @@ Handling connection for 8000
 0     0  6.575  296.0     15.3  396.9   4.98
 [2022-08-04 14:37:30,169] INFO in app: output prediction:
 [20.35373177134412]
-127.0.0.1 - - [0/Aug/2022 14:37:30] "POST /predict HTTP/1.1" 200 -
+127.0.0.1 - - [04/Aug/2022 14:37:30] "POST /predict HTTP/1.1" 200 -
 Port: 8000
